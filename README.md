@@ -9,7 +9,7 @@
 
 2. Change directory to the downloaded git repo and install package
     ```
-    npm install
+    npm install hhh
     ```
 
 3. Start Storybook 
